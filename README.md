@@ -17,4 +17,4 @@ Galvn builds custom AI systems for businesses. We focus on production-grade agen
 
 I'm a software engineer and technical consultant, working on backend systems, full-stack applications, and infrastructure for clients across multiple industries. I specialize in TypeScript and Rust, contribute to open source projects like Next.js and Tailwind CSS, and prioritize performance and maintainability in everything I build.
 
-I created **[lla](https://github.com/chaqchase/lla)**, the best and most feature-rich open source ls replacement written in Rust, featuring Git integration, plugin extensibility, and advanced search capabilities. I also built **[Da.Synth](https://dasynth.chaqchase.com)**, a web-based audio synthesizer for rapid sound design prototyping.
+I created **[lla](https://github.com/chaqchase/lla)**, the best and most feature-rich open source ls replacement written in Rust, featuring Git integration, plugin extensibility, and advanced search capabilities.
