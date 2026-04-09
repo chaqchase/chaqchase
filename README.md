@@ -9,15 +9,16 @@
 
 Hi, I'm Mohamed 👋
 
-I'm the founder of [Fidelect](https://fidelect.com) and [Galvn](https://galvn.com). Previously built [Cronacl](https://cronacl.com), an AI-native execution workspace.
+I build software that runs in production. Systems people depend on.
 
-[Fidelect](https://fidelect.com) is a modern Business OS for customer-centric brands. It unifies loyalty, CRM, campaigns, rewards, referrals, scheduling, analytics, and AI-powered support into one coherent system. Built for retail, clinics, beauty, gyms, and hybrid businesses that want measurable growth and deeper customer relationships. Not just loyalty software. A true operating system for physical and hybrid businesses.
+I'm the founder of [Fidelect](https://fidelect.com) and [Galvn](https://galvn.com). I also work on [Cronacl](https://cronacl.com), an open-source effort focused on AI developer tools.
 
-[Galvn](https://galvn.com) builds production-grade AI systems for businesses. We design agent architectures, knowledge retrieval systems, and tool integrations that deliver value immediately. Focused execution, real systems, no consultant lock-in.
+[Fidelect](https://fidelect.com) is a system for running customer relationships end to end. Customers, loyalty, rewards, campaigns, messaging, and analytics all live in one place. It replaces the usual stack of disconnected tools with something that actually holds together in day-to-day use.
 
-[Cronacl](https://cronacl.com) was an AI-native workspace designed for structured execution. It maintained context across conversations, executed multi-step workflows through specialized agents, and integrated deeply with external tools. The infrastructure and agent architecture developed there directly influence Fidelect today.
+[Galvn](https://galvn.com) is where I design and ship software for companies. Sometimes that includes AI, sometimes it doesn’t. The focus is simple. Build things that save time, reduce friction, and keep working under real usage.
 
-I'm a software engineer and technical consultant working across backend systems, full-stack applications, and infrastructure. I specialize in TypeScript and Rust, contribute to open source projects like Next.js and Tailwind CSS, and prioritize performance, clarity, and maintainability in everything I build.
+[Cronacl](https://cronacl.com) is where I build open-source AI tooling. The current focus is Sentinel, a local-first desktop workspace for working with AI inside real codebases. Files, terminals, diffs, and workflows live together so context doesn’t get lost.
 
-I created [lla](https://github.com/chaqchase/lla), a blazing fast open source ls replacement written in Rust with Git integration, plugin extensibility, and advanced search capabilities.
+I work across backend systems, full-stack applications, and infrastructure. Mostly TypeScript and Rust. I care about performance, clarity, and systems that are easy to reason about once they grow.
 
+I created [lla](https://github.com/chaqchase/lla), an open source `ls` replacement written in Rust. Fast, extensible, and built for everyday use.
